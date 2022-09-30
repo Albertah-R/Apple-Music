@@ -1,6 +1,6 @@
 # Consignes
 
-À le de JavaScript faite disparaitre le popoup en cliquant sur l'icône de fermeture.
+Faites disparaitre le popoup en cliquant sur l'icône de fermeture.
 
 ## ET
 
